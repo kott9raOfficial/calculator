@@ -45,3 +45,5 @@ function vith(){
 	alert('Автор : kott9ra (vk.com/andreykha) ');
 }		
  		console.log('by kott9ra');
+ 		console.log('by kott9ra');
+
