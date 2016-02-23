@@ -1,4 +1,7 @@
 body{
-
+background-image: url(images/bckimg.jpg)
 }
 
+h1{
+	color:yellow;
+}
