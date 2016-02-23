@@ -1,4 +1,4 @@
-function umnпкаыуафввпкпк() {
+function umn() {
 	var a  = prompt('Введите первое число');
 	var b = prompt('Введите второе число');
 	if(isNaN(a)==false & isNaN(b)==false) { 
