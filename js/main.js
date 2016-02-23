@@ -40,6 +40,8 @@ function vith(){
 		alert('Введены не числа!');
 	}
 
-
 }
+ function author(){
+	alert('Автор : kott9ra (vk.com/andreykha) ');
+}		
  		console.log('by kott9ra');
